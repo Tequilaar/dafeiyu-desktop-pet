@@ -1,0 +1,121 @@
+{
+  "climbing" : {
+    "columns" : 4,
+    "durationMs" : 1333,
+    "frames" : 4,
+    "height" : 480,
+    "width" : 384
+  },
+  "explosion-body" : {
+    "columns" : 4,
+    "durationMs" : 4500,
+    "frames" : 8,
+    "height" : 416,
+    "width" : 384
+  },
+  "hanging" : {
+    "columns" : 8,
+    "durationMs" : 2000,
+    "frames" : 16,
+    "height" : 576,
+    "width" : 512
+  },
+  "jog" : {
+    "columns" : 8,
+    "durationMs" : 800,
+    "frames" : 8,
+    "height" : 416,
+    "width" : 384
+  },
+  "jumping" : {
+    "columns" : 8,
+    "durationMs" : 840,
+    "frames" : 26,
+    "height" : 208,
+    "width" : 192
+  },
+  "look-0" : {
+    "columns" : 8,
+    "durationMs" : 1000,
+    "frames" : 32,
+    "height" : 416,
+    "width" : 512
+  },
+  "look-1" : {
+    "columns" : 8,
+    "durationMs" : 1000,
+    "frames" : 32,
+    "height" : 160,
+    "width" : 256
+  },
+  "look-2" : {
+    "columns" : 8,
+    "durationMs" : 1000,
+    "frames" : 32,
+    "height" : 160,
+    "width" : 256
+  },
+  "look-3" : {
+    "columns" : 8,
+    "durationMs" : 1000,
+    "frames" : 32,
+    "height" : 160,
+    "width" : 256
+  },
+  "sitting" : {
+    "columns" : 5,
+    "durationMs" : 1000,
+    "frames" : 5,
+    "height" : 576,
+    "width" : 512
+  },
+  "sleeping" : {
+    "columns" : 5,
+    "durationMs" : 1000,
+    "frames" : 5,
+    "height" : 416,
+    "width" : 512
+  },
+  "steel-eating" : {
+    "columns" : 4,
+    "durationMs" : 6000,
+    "frames" : 6,
+    "height" : 416,
+    "width" : 384
+  },
+  "steel-props" : {
+    "columns" : 2,
+    "durationMs" : 1000,
+    "frames" : 2,
+    "height" : 192,
+    "width" : 256
+  },
+  "surprised" : {
+    "columns" : 5,
+    "durationMs" : 2800,
+    "frames" : 5,
+    "height" : 416,
+    "width" : 384
+  },
+  "waiting" : {
+    "columns" : 8,
+    "durationMs" : 1010,
+    "frames" : 31,
+    "height" : 208,
+    "width" : 192
+  },
+  "walking" : {
+    "columns" : 8,
+    "durationMs" : 1000,
+    "frames" : 8,
+    "height" : 416,
+    "width" : 384
+  },
+  "waving" : {
+    "columns" : 8,
+    "durationMs" : 2600,
+    "frames" : 32,
+    "height" : 416,
+    "width" : 384
+  }
+}

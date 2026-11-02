@@ -1,0 +1,19 @@
+{
+  "density": 2,
+  "bodyCell": [
+    512,
+    416
+  ],
+  "eyeCell": [
+    256,
+    160
+  ],
+  "eyeRect": [
+    64,
+    48,
+    128,
+    80
+  ],
+  "columns": 8,
+  "rows": 4
+}
